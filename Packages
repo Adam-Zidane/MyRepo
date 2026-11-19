@@ -1,0 +1,10 @@
+Package: com.rain.rainmhz_6.13.0-1_iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Adam asem1001wow@gmail.com
+Architecture: iphoneos-arm64
+Filename: ./debs/com.rain.rainmhz_6.13.0-1_iphoneos-arm64
+Size: 173Kb
+Description: Tweak
+Name: RainMhZ
+Author: Adam and Rain
